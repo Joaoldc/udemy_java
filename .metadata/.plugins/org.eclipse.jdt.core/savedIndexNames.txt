@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\PCGamer\Desktop\Engenharia de software\Programas_Aulas\Udemy Java\.metadata\.plugins\org.eclipse.jdt.core
+1190740436.index
+2395770322.index
+1865797976.index
+837627901.index
+1409614074.index
